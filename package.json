@@ -1,0 +1,32 @@
+{
+  "name": "express-movie",
+  "version": "1.0.0",
+  "description": "电影",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node实战"
+  ],
+  "author": "miracle",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "bower": "^1.5.3",
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "moment": "^2.10.6",
+    "mongoose": "^4.2.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeethy/movie-express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/freeethy/movie-express/issues"
+  },
+  "homepage": "https://github.com/freeethy/movie-express#readme"
+}
